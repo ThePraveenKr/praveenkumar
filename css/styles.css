@@ -1,7 +1,7 @@
 
 #colorstrip{
     height: 0px;
-    border-bottom:solid 51px #070f4e;
+    border-bottom:solid 61px #070f4e;
 }
 
 body {
@@ -13,7 +13,7 @@ body {
 
 nav ul, footer ul {
     font-family:"Times New Roman", Times, serif;
-    padding: 10px;
+    padding: 1px;
     list-style: none;
     font-weight: bold;
 }

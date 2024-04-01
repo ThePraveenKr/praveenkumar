@@ -2,6 +2,12 @@ body {
     margin: 10px auto;
     width: 70%;
 }
+
+#colorstrip{
+    height: 0px;
+    border-bottom:solid 2px red;
+}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;

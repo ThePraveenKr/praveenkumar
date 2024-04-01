@@ -4,8 +4,8 @@ body {
 }
 
 #colorstrip{
-    height: 15px;
-    border-bottom:solid 12px blue;
+    height: 1px;
+    border-bottom:solid 20px blue;
 }
 
 nav ul, footer ul {

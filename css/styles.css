@@ -5,11 +5,11 @@ body {
 
 #colorstrip{
     height: 0px;
-    border-bottom:solid 20px #070f4e;
+    border-bottom:solid 30px #070f4e;
 }
 
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:"Times New Roman", Times, serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;

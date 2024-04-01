@@ -1,14 +1,14 @@
-#colorstrip{
-    height: 0px;
-    border-bottom:solid 31px #070f4e;
-}
+
 
 body {
     margin: 0px auto;
     width: 100%;
 }
 
-
+#colorstrip{
+    height: 0px;
+    border-bottom:solid 31px #070f4e;
+}
 
 nav ul, footer ul {
     font-family:"Times New Roman", Times, serif;
@@ -21,7 +21,7 @@ nav ul li, footer ul li {
     margin-right: 10px;
     margin-left: 30px;
 }
-}
+
 a {
     text-decoration: none;
     color: white;

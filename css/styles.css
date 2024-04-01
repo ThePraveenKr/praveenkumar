@@ -18,8 +18,8 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     display: inline;
-    margin-right: 10px;
-    margin-left: 30px;
+    margin-right: 0px;
+    margin-left: 50px;
 }
 
 a {

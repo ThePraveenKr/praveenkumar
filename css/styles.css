@@ -5,7 +5,7 @@ body {
 
 #colorstrip{
     height: 0px;
-    border-bottom:solid 40px #070f4e;
+    border-bottom:solid 32px #070f4e;
 }
 
 nav ul, footer ul {

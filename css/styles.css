@@ -23,6 +23,7 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: white;
+    margin-right: 1px;
 }
 
 a:hover {

@@ -1,14 +1,15 @@
 
+#colorstrip{
+    height: 0px;
+    border-bottom:solid 51px #070f4e;
+}
 
 body {
     margin: 0px auto;
     width: 100%;
 }
 
-#colorstrip{
-    height: 0px;
-    border-bottom:solid 51px #070f4e;
-}
+
 
 nav ul, footer ul {
     font-family:"Times New Roman", Times, serif;
